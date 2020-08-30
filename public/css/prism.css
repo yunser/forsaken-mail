@@ -184,3 +184,20 @@ pre[data-line] {
 		top: auto;
 		bottom: .4em;
 	}
+.help {
+	line-height: 60px;
+}
+.header-asd {
+	padding-right: 16px;
+	justify-content: space-between;
+}
+
+.userForm {
+	margin-bottom: 24px !important;
+	display: flex !important;
+	width: 100% !important;
+}
+
+.userForm .input {
+
+}
